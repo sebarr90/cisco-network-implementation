@@ -98,7 +98,7 @@ VPN Site-to-Site establecida correctamente, asegurando que el tráfico entre Ins
 
 📂 Archivos del Repositorio
 
-proyecto-redes.pkt(https://github.com/sebarr90/cisco-network-implementation/blob/main/Prueba%20Modulo%206%20Marcos%20Arriagada.pkt) → archivo de Packet Tracer con toda la topología.
+[proyecto-redes.pkt](https://github.com/sebarr90/cisco-network-implementation/blob/main/Prueba%20Modulo%206%20Marcos%20Arriagada.pkt) → archivo de Packet Tracer con toda la topología.
 
 README.md → explicación del proyecto.
 
