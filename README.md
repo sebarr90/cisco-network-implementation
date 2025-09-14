@@ -1,5 +1,4 @@
 # cisco-network-implementation
-configuraciones de Capa 2, Capa 3 y Seguridad con un Firewall ASA y una VPN Site-to-Site.
 🛰️ Proyecto de Redes – Implementación en Packet Tracer
 
 Este proyecto consiste en la implementación de una topología de red empresarial simulada en Cisco Packet Tracer, aplicando configuraciones de Capa 2, Capa 3 y Seguridad con un Firewall ASA y una VPN Site-to-Site.
